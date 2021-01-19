@@ -3,7 +3,7 @@
 ## Introduction
 Designed and implemented a ML classification prediction model using Support Vector Machine (SVM) algorithm. The model is trained using COVID 19 symptoms dataset with features like age, fever, cough, etc. and predicts whether an individual is COVID 19 positive or negative.
 
-## Meathodlogy 
+## Meathodology 
 # Data Cleaning
 We will remove all the pickups and drop off which are outside our selected region. We will do this by checking the longitude and latitude. As we are picking New York city we can see that there are many data points which are outside the region. All these points will be removed as a part of the data cleaning process.
 # Clustering and Segmentation
