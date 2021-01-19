@@ -19,6 +19,6 @@ Support Vector Machine or SVM is one of the most popular Supervised Learning alg
 The train-test split procedure is used to estimate the performance of machine learning algorithms when they are used to make predictions on data not used to train the model. It is a fast and easy procedure to perform, the results of which allow you to compare the performance of machine learning algorithms for your predictive modeling problem. 
 
 ### Predicting the test set result
-To predict the output of the set, a new vector y_pred is created. Now we need to compare the y_pred and y_test to check that how accurate is the prediction.
+To predict the output of the set, a new vector y_pred is created. A comparism is done between the y_pred and y_test to check that how accurate is the prediction.
 
 
