@@ -6,11 +6,11 @@ Designed and implemented a ML classification prediction model using Support Vect
 ## Meathodology 
 ### Data Cleaning
 We will remove all the pickups and drop off which are outside our selected region. We will do this by checking the longitude and latitude. As we are picking New York city we can see that there are many data points which are outside the region. All these points will be removed as a part of the data cleaning process.
-# Clustering and Segmentation
+### Clustering and Segmentation
 Using the K-Means Clustering Algorithm we have divided NY in regions. We  have created clusters of the same size using K-means. Here clusters size represent no. of points, not the area.As there are large no. of pickup in Manhattan so the cluster size will be small as compared to the outskirts of NYC where the cluster size will be large.
-# Time Binning
+### Time Binning
 We have converted the time which in regular format to Unix timestamp and divide it by 600 to make 10 min bins. 
-# Regression Model
+### Regression Model
 We have used 3 regression models:
 Linear regression,
 Random Forest Regression and
