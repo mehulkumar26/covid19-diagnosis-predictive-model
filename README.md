@@ -12,8 +12,8 @@ Using the K-Means Clustering Algorithm we have divided NY in regions. We  have c
 We have converted the time which in regular format to Unix timestamp and divide it by 600 to make 10 min bins. 
 # Regression Model
 We have used 3 regression models:
-Linear regression
-Random Forest Regression
+Linear regression,
+Random Forest Regression and
 XGBoost Regression
 
 
