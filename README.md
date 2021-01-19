@@ -6,7 +6,11 @@ Designed and implemented a ML classification prediction model using Support Vect
 ## Methodology
 
 ### Libraries Used: 
-NumPy, Pandas, Sklearn, Seaborn, 5.	Matplotlib.pyplot
+* NumPy 
+* Pandas 
+* Sklearn 
+* Seaborn 
+* Matplotlib.pyplot
 
 ### Splitting the data into training and test set
 The train-test split procedure is used to estimate the performance of machine learning algorithms when they are used to make predictions on data not used to train the model. It is a fast and easy procedure to perform, the results of which allow you to compare the performance of machine learning algorithms for your predictive modeling problem. 
